@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<data>
+    <categorie categorie="Persoonlijke verzorging">
+        <name>Kapper</name>
+        <name>Aboutyou</name>
+        <name>The Sting</name>
+        <name>America Today</name>
+        <name>Brilmij</name>
+        <name>Toplenzen</name>
+        <name>Zalando</name>
+        <name>Action</name>
+        <name>Hema</name>
+        <name>bol</name>
+        <name>Xenos</name>
+        <name>Big bazar</name>
+        <name>Zara</name>
+        <name>Say Jess</name>
+        <name>Cottonclub</name>
+        <name>Asphaltgold</name>
+        <name>Klarna bank</name>
+        <name>Arvato</name>
+        <name>buckaroo</name>
+        <name>Promove Rugzorg</name>
+        <name>Toilet</name>
+    </categorie>
+    <categorie categorie="Auto">
+        <name>Shell</name>
+        <name>Esso</name>
+        <name>Avia</name>
+        <name>BP</name>
+        <name>tankstation</name>
+        <name>Parkeren</name>
+        <name>Parkeergelden</name>
+        <name>Promovendum</name>
+        <name>garage</name>
+        <name>EP systems</name>
+    </categorie>
+    <categorie categorie="Boodschappen">
+        <name>Spar</name>
+        <name>AH</name>
+        <name>Albert Heijn</name>
+        <name>Zaandam NLD</name>
+        <name>Jumbo</name>
+        <name>Foodcafe</name>
+        <name>Sligro</name>
+        <name>Service Point</name>
+        <name>Wijnbeurs</name>
+        <name>Bakkerij van Lieshout</name>
+    </categorie>
+    <categorie categorie="Vrije tijd">
+        <name>McDonalds</name>
+        <name>Mc D</name>
+        <name>Efteling</name>
+        <name>Pathe</name>
+        <name>Horeca HC Tilburg</name>
+        <name>Ribsfactory</name>
+        <name>centerparc</name>
+        <name>center parc</name>
+        <name>Oranjecomite</name>
+        <name>villa vredelust</name>
+        <name>tapperij de kore</name>
+        <name>sushi</name>
+        <name>Nieuwland</name>
+        <name>Hotel</name>
+        <name>sporthoreca</name>
+        <name>Rabo Betaalverzoek</name>
+        <name>Oude markt</name>
+        <name>albron</name>
+    </categorie>
+    <categorie categorie="Electronica">
+        <name>smartphone</name>
+    </categorie>
+    <categorie categorie="Bankkosten">
+        <name>Betaalpakket</name>
+        <name>rekeninghouder</name>
+        <name>Ing</name>
+        <name>ABN AMRO</name>
+    </categorie>
+    <categorie categorie="Gas/Water/Licht/Belasting">
+        <name>Brabant water</name>
+        <name>Essent</name>
+        <name>Gemeente Tilburg</name>
+        <name>Belasting</name>
+    </categorie>
+    <categorie categorie="Huis">
+        <name>Florius</name>
+        <name>dekkers</name>
+    </categorie>
+    <categorie categorie="Verzekeringen">
+        <name>Centraal beheer</name>
+        <name>Zilveren kruis</name>
+        <name>DELA</name>
+    </categorie>
+    <categorie categorie="Kinderen">
+        <name>Lana van der Maade</name>
+        <name>Aaron van der Maade</name>
+        <name>Club</name>
+        <name>Pets place</name>
+        <name>Decathlon</name>
+        <name>Ons middelbaar onderwijs</name>
+        <name>Fiets</name>
+    </categorie>
+    <categorie categorie="Loterij">
+        <name>Postcode loterij</name>
+    </categorie>
+    <categorie categorie="Abonnement">
+        <name>Ziggo</name>
+        <name>Netflix</name>
+        <name>Viaplay</name>
+        <name>Spotify</name>
+        <name>Google</name>
+        <name>F1Pro</name>
+        <name>webreus</name>
+        <name>vodafone</name>
+    </categorie>
+    <categorie categorie="Sparen/Opnemen">
+        <name>van der Maade en/of</name>
+        <name>Incasso creditcard</name>
+    </categorie>
+    <categorie categorie="werkkosten/cadeautjes">
+        <name>Kaartje2Go</name>
+        <name>Gianotten</name>
+        <name>my jewellery</name>
+    </categorie>
+</data>
